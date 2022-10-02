@@ -69,3 +69,7 @@ text
 http://google.com
 <br>
 <http://google.com>
+
+Link: [Google][googlelink]
+
+[googlelink]: http://google.com
